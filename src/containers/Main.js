@@ -14,12 +14,12 @@ export default class Main extends Component {
       <div>
         <Header />
         <Greeting />
-        <Skills />
+        {/* <Skills />
         <WorkExperience />
         <Projects />
         <Achievement />
         <Profile />
-        <Top />
+        <Top /> */}
       </div>
     );
   }

@@ -19,12 +19,12 @@ export default function Greeting() {
               {" "}
               {/* <span className="wave-emoji">{emoji("👋")}</span> */}
             </h1>
-  <p className="greeting-text-p subTitle">{greeting.subTitle1} <a href='https://users.encs.concordia.ca/~magic/?page_id=6'>MAGIC</a> {greeting.subTitle2} {greeting.subTitle3}</p>
+  {/* <p className="greeting-text-p subTitle">{greeting.subTitle1} <a href='https://users.encs.concordia.ca/~magic/?page_id=6'>MAGIC</a> {greeting.subTitle2} {greeting.subTitle3}</p>
             <SocialMedia />
             <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
               <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
-            </div>
+            </div> */}
           </div>
         </div>
         {/* <div className="greeting-image-div">
